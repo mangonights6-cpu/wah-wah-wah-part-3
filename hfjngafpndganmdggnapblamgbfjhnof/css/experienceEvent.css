@@ -1,0 +1,21 @@
+/*
+ * RoSeal Extension
+ *
+ * Copyright (C) 2022-2026 roseal.live
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ *
+ * Repository: https://github.com/RoSeal-Extension/RoSeal
+*/
+[data-rosealfe-imageresolutionoverride] .game-card-link .thumbnail-2d-container{max-height:150px;max-width:150px}[data-rosealfe-cssfixes] .event-hosted-by-container{border-top-color:var(--RS_LINE-COLOR) !important}.experience-event-field{margin-top:2px;display:flex;justify-content:space-between}.mobile .experience-event-field:last-child{padding-bottom:10%}.btn-view-thumbnail-asset-container{right:3px;bottom:3px}.btn-control-container{opacity:0;transition:opacity .5s ease;position:absolute;z-index:5}div:has(>.btn-control-container):hover .btn-control-container{opacity:1}.btn-control-container .btn-control{display:block;border-radius:8px;border:none;padding:4px}.dark-theme .btn-control-container .btn-control{color:#fff;background-color:rgba(0,0,0,.7)}.light-theme .btn-control-container .btn-control{color:#000;background-color:hsla(0,0%,100%,.9)}

@@ -1,0 +1,21 @@
+/*
+ * RoSeal Extension
+ *
+ * Copyright (C) 2022-2026 roseal.live
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ *
+ * Repository: https://github.com/RoSeal-Extension/RoSeal
+*/
+.marketplace-color-filters .color-filter-list{margin-top:3px;display:flex;flex-direction:column;gap:3px}.marketplace-color-filters .color-filter-list .color-filter{display:flex;align-items:center;gap:3px}.marketplace-color-filters .roseal-color-group{display:flex;gap:3px}.marketplace-color-filters .roseal-color-group .roseal-color-input{height:20px !important;width:20px !important}[data-item-not-color-matched],[data-item-not-offsale],[data-item-not-unowned]{display:none !important}.marketplace-creator-type-filter-new{padding:12px 24px;width:100%}.filter-option:has(.marketplace-creator-type-filter-new){flex-wrap:wrap}.marketplace-creator-type-filter-new .creator-type-filter-list{display:flex;flex-direction:column;gap:12px}.marketplace-creator-type-filter-new .creator-type-filter-list .filter-item{display:flex;align-items:center;justify-content:space-between}.item-card-container .quantity-remaining-text{position:absolute;top:5px;left:3px;background-color:var(--RS_PRIMARY-INVERT-BACKGROUND-COLOR);color:var(--RS_PRIMARY-INVERT-TEXT-COLOR);z-index:1;border-radius:999px;padding:4px 8px;font-weight:bold}[data-rosealfe-marketplacehidetopics] .topic-container{display:none !important}.marketplace-landing-container{display:flex;flex-direction:column;gap:1em}.roseal-items-container .container-title-container{display:flex;align-items:center;margin-bottom:-1.5em;margin-left:8px;gap:4px}.roseal-items-container .container-title-container .container-tooltip-container,.roseal-items-container .container-title-container .container-tooltip-container .roseal-icon{width:24px;height:24px}.roseal-items-container .container-title{display:flex;flex-direction:column;height:fit-content}.roseal-items-container .items-list-container{display:grid;grid-template-columns:repeat(auto-fill, minmax(200px, 1fr));grid-auto-flow:dense;gap:16px;overflow:hidden}@media(max-width: 991px){.roseal-items-container .items-list-container{grid-template-columns:repeat(auto-fill, minmax(160px, 1fr))}}@media(max-width: 767px){.roseal-items-container .items-list-container{gap:9px}}.roseal-items-container .items-list-container.collapsed{grid-auto-rows:0;grid-template-rows:min-content;max-height:max-content;row-gap:0 !important}.roseal-looks-search-list{grid-column:1/-1;grid-row:3;margin-bottom:3em}.roseal-looks-search-list .container-title-container{margin-left:0;margin-bottom:-1em}#catalog-content:has(#roseal-main-view) #main-view,#catalog-content:has(#roseal-main-view) #shimmer-menu-container{display:none}

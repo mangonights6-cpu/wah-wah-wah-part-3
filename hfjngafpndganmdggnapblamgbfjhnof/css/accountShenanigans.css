@@ -1,0 +1,21 @@
+/*
+ * RoSeal Extension
+ *
+ * Copyright (C) 2022-2026 roseal.live
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ *
+ * Repository: https://github.com/RoSeal-Extension/RoSeal
+*/
+.account-shenanigans h1,.account-shenanigans h4{font-family:"Builder Extended"}.account-shenanigans .section-list{display:flex;flex-direction:column;gap:2em}.account-shenanigans .section-list .section .section-content{background-color:var(--RS_BACKGROUND-3-COLOR);font-family:"Builder Mono";padding:1em}.account-shenanigans .section-list .section .section-content::before,.account-shenanigans .section-list .section .section-content::after{content:"" !important}
